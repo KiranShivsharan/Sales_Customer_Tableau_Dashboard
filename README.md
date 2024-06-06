@@ -25,7 +25,7 @@ The main aim of this dashboard is to simplify navigation through sales performan
 
 Below is a snippet of the sales dashboard.
 
-![Tableau](https://i.ibb.co/YN08k0N/Sales-Dashboard-Screenshot.png)
+![Tableau](https://i.ibb.co/9y7yHGx/Sales-Dashboard-Screenshot.png)
 
 ## Customer Dashboard Highlights:
 
@@ -36,7 +36,7 @@ Below is a snippet of the sales dashboard.
 
 Below is a snippet of the final customer dashboard.
 
-![Tableau](https://i.ibb.co/09WKgFZ/Customer-Dashboard-Screenshot.png)
+![Tableau](https://i.ibb.co/7QzBYxp/Customer-Dashboard-Screenshot.png)
 
 ## Business Insights
 
